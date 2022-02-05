@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sonk",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OK IM DONE WITH YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm mmmmmmmmmmmmm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haha sure get ready to get destroyed : )"
+		}
+	]
+}
